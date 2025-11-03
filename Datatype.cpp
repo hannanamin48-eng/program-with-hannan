@@ -13,3 +13,10 @@ cout<<"enter your distance :";
 cin >>distance;
 cout<<"enter your grade :";
 cin >>grade;
+
+
+//output
+//Enter your age: 20
+//Enter your salary: 20000
+//Enter Distance Total Traveled: 20.90
+A
