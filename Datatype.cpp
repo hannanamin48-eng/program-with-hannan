@@ -13,6 +13,8 @@ cout<<"enter your distance :";
 cin >>distance;
 cout<<"enter your grade :";
 cin >>grade;
+}
+
 
 
 //output
